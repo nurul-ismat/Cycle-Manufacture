@@ -2,7 +2,7 @@
 Cycle-Manufacture Website || Full Stack MERN
 
 
-## Techonology Used:
+## Technology Used:
 React, React Router, Tailwind CSS, Daisy UI, React Query, Firebase,
 Stripe, Node JS, Express JS, MongoDB, JWT.
 
